@@ -22,4 +22,4 @@ Esta empresa vende producutos para lavado en seco de automoviles en centros come
 - Efectivo
 - Nequi/Bancolombia/Daviplata (Transferencia)
 - Tarjeta Debito/Credito (Datafono)
-- Pasarela de pagos en linea (pagina Web)
+- Pasarela de pagos en linea (Pagina Web)

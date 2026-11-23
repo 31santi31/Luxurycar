@@ -13,13 +13,12 @@ Esta empresa vende producutos para lavado en seco de automoviles en centros come
 4. Producto para lavado en seco Galones.
 
 ### Diferencias de precios
-1. Producto para lavado en seco de 600ml. ***$90.000***
-3. Producto contra la lluvia acida. ***$90.000***
-4. Paños de microfibras. ***$15.000***
-5. Producto para lavado en seco Galones. ***$400.000***
+1. Cera para auto. ***$21.000***
+2. Limpiavidrios ***$8.000***
+3. Esponja. ***$2.700***
+4. Shampoo automotriz. ***$12.000***
+5. Ambientador. ***$5.400***
 
 ### Medios de Pago
 - Efectivo
-- Nequi/Bancolombia/Daviplata (Transferencia)
-- Tarjeta Debito/Credito (Datafono)
-- Pasarela de pagos en linea (Pagina Web)
+- Tarjeta Debito/Credito 
